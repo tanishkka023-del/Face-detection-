@@ -1,0 +1,2 @@
+echo Name,Time,Date > attendance_system/Attendance.csv
+SOMIL_JHA,10:36:55,08/11/2025
